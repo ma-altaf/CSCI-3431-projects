@@ -1,4 +1,4 @@
-# CSCI-3431-projects
+# CSCI-3431-projects (Operating Systems course)
 
 Projects done during the university course CSCI 3431 (operating system), we were given a project description and guide to code the 2 projects.
 
