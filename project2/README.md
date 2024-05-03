@@ -1,4 +1,4 @@
-# file description
+# File Description
 
 ## fwa.c
 
@@ -9,7 +9,7 @@ NN NP
 SN EN PW
 
 NN: number of nodes  
-NP: number of paths whose weigh will be inserted below  
+NP: number of paths whose weight will be inserted below  
 SN: start node  
 EN: end node  
 PW: path weight
